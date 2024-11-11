@@ -18146,9 +18146,4 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 29481,MR.,IVAN,SURI,1960-01-05,S,M,ivan0@adventure-works.com,30000,3,Graduate Degree,Clerical,N
 29482,MR.,CLAYTON,ZHANG,1959-03-05,M,M,clayton0@adventure-works.com,30000,3,Bachelors,Clerical,Y
 29483,MR.,JÉSUS,NAVARRO,1959-12-08,M,M,jésus9@adventure-works.com,30000,0,Bachelors,Clerical,Y
-30---,m,,,1900-01-01,,,,,,,,
-30---,m,,,1900-01-01,,,,,,,,
-30---,m,,,1900-01-01,,,,,,,,
-,,,,,,,,,,,,
-Export date 20230101 14:59:17,,,,,,,,,,,,
-Source AW_Cust_Master,,,,,,,,,,,,
+
